@@ -1,0 +1,4 @@
+# 開発・テスト用依存 (setup.bat --dev でインストール)
+-r requirements.txt
+pytest>=8
+
