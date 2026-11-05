@@ -4,10 +4,9 @@
 通常のチャットや画像を見せる質問は**すべて自分のパソコン内で処理されるため、無料で何度でも**利用できます。
 
 ### 📥 アプリのダウンロード方法
-**[👉 ここをクリックしてアプリ一式（ZIP）をダウンロード](https://github.com/shred0901-DEV/SimpleLocalChatbot/archive/refs/heads/main.zip)**  
-（または画面右上の緑色の **「<> Code」→「Download ZIP」** をクリック）
+**[👉 ここをクリックしてアプリ一式（SimpleLocalChatbot.zip）をダウンロード](https://github.com/shred0901-DEV/SimpleLocalChatbot/raw/refs/heads/main/SimpleLocalChatbot.zip)**
 
-※ダウンロードしたZIPファイルは、**必ず「右クリック → すべて展開」で解凍してから**使ってください（ZIPを開いたまま実行すると動きません）。
+※ダウンロードした `SimpleLocalChatbot.zip` は、**必ず「右クリック → すべて展開」で解凍してから**使ってください（ZIPを開いたまま実行すると動きません）。
 
 ---
 
